@@ -126,6 +126,8 @@ Pada tahap analisis ini, saya menggunakan 6 kolom yang akan digunakan untuk menj
 <img width="1389" height="690" alt="image" src="https://github.com/user-attachments/assets/7ce94162-cfc0-4c9e-ad6b-8a8b9832a15e" />
 <img width="1388" height="687" alt="image" src="https://github.com/user-attachments/assets/f3419e1d-4b4c-468b-b8cb-409b0871d0cf" />
 
+Lihat Visualisasi di [Tableau](https://public.tableau.com/views/KickstarterCampaignSuccessAnalysis/RingkasanDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Insight
 1. Kampanye dengan target pendanaan < $2.000 memiliki tingkat keberhasilan 52,9%, sedangkan target ≥ $50.000 hanya 15,0%. Semakin tinggi target pendanaan, semakin rendah tingkat keberhasilan yang terlihat pada dataset ini.
 2. Keberhasilan kampanye sangat bervariasi antar kategori. Dance memiliki tingkat keberhasilan tertinggi (65,4%), sedangkan Technology terendah (23,8%). Ini menunjukkan bahwa kategori proyek memiliki pola keberhasilan yang berbeda dan tidak dapat disamakan antar kategori.
